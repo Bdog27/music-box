@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+}
+#chickenandwaffles{
+  width: 800px;
+  height: 200px;
+  margin: auto;
+  margin-top: 300px;
+  border: 2px solid white;
+}
+.key{
+  height: 200px;
+  width: 71.4px;
+  float: left;
+}
+#a{
+  background-color: red;
+  margin-right: 50px
+}
+#b{
+  background-color: orange;
+  margin-right: 50px
+}
+#c{
+  background-color: yellow;
+  margin-right: 50px
+}
+#d{
+  background-color: green;
+  margin-right: 50px
+}
+#e{
+  background-color: blue;
+  margin-right: 50px
+}
+#f{
+  background-color: indigo;
+  margin-right: 50px
+}
+#g{
+  background-color: violet;
+}
